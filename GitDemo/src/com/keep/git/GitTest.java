@@ -6,7 +6,7 @@ public class GitTest {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("大家好，我是git测试");
+		System.out.println("绗竴涓猤it宸ョ▼");
 	}
 
 }
